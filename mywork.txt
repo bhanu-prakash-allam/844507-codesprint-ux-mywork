@@ -1,0 +1,11 @@
+My associate id:
+844507
+Other team members:
+844574,844556,844554,844583
+Team lead:
+844507
+My role in team:
+1.to communicating with json server,
+2.did model class
+3.did all reactive forms and validations
+4.did the code for storing and retreving data from json file(fake database)
